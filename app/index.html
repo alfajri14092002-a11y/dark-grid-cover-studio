@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dark Grid Cover Studio</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">DG</span>
+      <div>
+        <h1>Dark Grid Cover Studio</h1>
+        <p>Your photo, five panels, one poster. Pick photos, write the caption, export the PNG.</p>
+      </div>
+    </div>
+    <div class="top-meta">100% offline · photos never leave this machine</div>
+  </header>
+  <div class="layout">
+    <aside id="rail" aria-label="Cover controls"></aside>
+    <main id="stage">
+      <canvas id="preview" width="1080" height="1350"></canvas>
+      <p id="hint">Pick a panel to pan and zoom it</p>
+    </main>
+  </div>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
