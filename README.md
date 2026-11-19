@@ -1,3 +1,9 @@
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/alfajri14092002-a11y/dark-grid-cover-studio/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/alfajri14092002-a11y/dark-grid-cover-studio/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+
+Built for the [GTA VI Cover Art bounty on make.fun](https://make.fun/bounty/gta6-cover-art-01).
+
 # Dark Grid Cover Studio
 
 A small offline web app that turns your photos into a GTA 6-style
